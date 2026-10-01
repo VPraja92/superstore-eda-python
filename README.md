@@ -29,7 +29,6 @@ An end-to-end exploratory data analysis (EDA) of the Superstore sales dataset (9
 ```
 .
 ├── superstore_eda.py                 # the full EDA script
-├── Superstore_EDA.ipynb              # same analysis as a notebook, with outputs
 ├── sample - superstore (2).xlsx      # dataset
 ├── eda_plots/                        # charts saved by the script
 └── README.md
